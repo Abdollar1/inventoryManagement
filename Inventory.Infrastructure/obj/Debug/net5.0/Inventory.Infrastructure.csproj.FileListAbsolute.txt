@@ -1,0 +1,17 @@
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\Inventory.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\Inventory.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\Inventory.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\Inventory.Infrastructure.AssemblyInfo.cs
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\Inventory.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\bin\Debug\net5.0\Inventory.Infrastructure.deps.json
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\bin\Debug\net5.0\Inventory.Infrastructure.dll
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\bin\Debug\net5.0\Inventory.Infrastructure.pdb
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\bin\Debug\net5.0\Inventory.Application.dll
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\bin\Debug\net5.0\Inventory.Domain.dll
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\bin\Debug\net5.0\Inventory.Application.pdb
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\bin\Debug\net5.0\Inventory.Domain.pdb
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\Inventory.Infrastructure.csproj.CopyComplete
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\Inventory.Infrastructure.dll
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\refint\Inventory.Infrastructure.dll
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\Inventory.Infrastructure.pdb
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Infrastructure\obj\Debug\net5.0\ref\Inventory.Infrastructure.dll
