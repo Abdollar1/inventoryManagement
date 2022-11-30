@@ -47,6 +47,11 @@ namespace Inventory.Infrastructure.Repository
                 var index = items.FindIndex((item) => item.id == id);
                 items.RemoveAt(index);
             }
+
+            Task<Item> IItemsRpository.GetItem(Guid id)
+            {
+                throw new NotImplementedException();
+            }
         }
 
 

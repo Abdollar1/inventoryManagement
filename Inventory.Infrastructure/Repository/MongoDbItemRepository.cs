@@ -53,7 +53,7 @@ namespace Inventory.Infrastructure.Repository
             var findItem = itemsCollection.Find( ID => ID.id == item.id);
             if (findItem == null) {
 
-                throw new ArgumentException();
+                return n;
             }
             itemsCollection.InsertOne(item);
         }

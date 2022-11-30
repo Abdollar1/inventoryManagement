@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Inventory.Infrastructure",
+    "\\Inventory.Infrastructure\\Repository",
+    "\\Inventory.Infrastructure\\Settings"
   ],
-  "SelectedNode": "\\Inventory management.sln",
+  "SelectedNode": "\\Inventory.Infrastructure\\Settings\\MongoDbSettings.cs",
   "PreviewInSolutionExplorer": false
 }
