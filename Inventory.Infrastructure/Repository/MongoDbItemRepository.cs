@@ -1,9 +1,12 @@
 ﻿using Inventory.Application.Interface;
+using Inventory.Application.ItemDtos;
 using Inventory.Domain; 
 using MongoDB.Bson;
 using MongoDB.Driver;
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Threading.Tasks;
 
 namespace Inventory.Infrastructure.Repository
 {
@@ -28,12 +31,15 @@ namespace Inventory.Infrastructure.Repository
 
         public void deleteItem(Guid id)
         {
-            throw new NotImplementedException();
+            
+            itemsCollection.DeleteOne( ID => ID.id == id);
+             
         }
 
-        public Item GetItem(Guid id)
+        public async Task<Item> GetItem(Guid id)
         {
-            throw new NotImplementedException();
+            return (Item)await itemsCollection.FindAsync(ID => ID.id == id);
+             
         }
 
         public IEnumerable<Item> GetItems()
@@ -44,7 +50,12 @@ namespace Inventory.Infrastructure.Repository
 
         public void updateItem(Item item)
         {
-            throw new NotImplementedException();
+            var findItem = itemsCollection.Find( ID => ID.id == item.id);
+            if (findItem == null) {
+
+                throw new ArgumentException();
+            }
+            itemsCollection.InsertOne(item);
         }
     }
 }

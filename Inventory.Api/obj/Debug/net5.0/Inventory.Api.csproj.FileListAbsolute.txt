@@ -47,3 +47,4 @@ C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Api\b
 C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Api\bin\Debug\net5.0\Inventory.Application.pdb
 C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Api\bin\Debug\net5.0\Inventory.Infrastructure.pdb
 C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Api\bin\Debug\net5.0\Inventory.Domain.pdb
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Api\obj\Debug\net5.0\Inventory.Api.MvcApplicationPartsAssemblyInfo.cs

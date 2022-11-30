@@ -1,0 +1,12 @@
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\bin\Debug\net5.0\Inventory.Test.deps.json
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\bin\Debug\net5.0\Inventory.Test.dll
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\bin\Debug\net5.0\Inventory.Test.pdb
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\Inventory.Test.csproj.AssemblyReference.cache
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\Inventory.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\Inventory.Test.AssemblyInfoInputs.cache
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\Inventory.Test.AssemblyInfo.cs
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\Inventory.Test.csproj.CoreCompileInputs.cache
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\Inventory.Test.dll
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\refint\Inventory.Test.dll
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\Inventory.Test.pdb
+C:\Users\abdul\Desktop\Innorik\Codes\Public\Inventory management\Inventory.Test\obj\Debug\net5.0\ref\Inventory.Test.dll

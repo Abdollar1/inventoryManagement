@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "JihPhohthTbqs/uBq7CWPrv4DOicrN6xDhx33EhSoLgOf9OQPilkzVv707xCFSOipLUKmxJGQc8wUzXW5hDooA==",
+  "dgSpecHash": "zQQpRdf+8nEPAIqZ2jT50I7js1P38aQedYynzlkXKFH8cT3jvU9W3lDgrbQS36RXOV6FgTz+YrI4CZKtuM7K7Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\abdul\\Desktop\\Innorik\\Codes\\Public\\Inventory management\\Inventory.Test\\Inventory.Test.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Innorik\\Codes\\Public\\Inventory management\\Inventory.Test\\Inventory.Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abdul\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\abdul\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

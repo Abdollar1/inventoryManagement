@@ -1,4 +1,4 @@
-﻿namespace Infrastructure.Settings
+﻿namespace Inventory.Infrastructure.Settings
 {
     public class MongoDbSettings
     {
@@ -6,14 +6,14 @@
 
         public int Port { get; set; }
 
-        public string ConnectionString 
-        { 
-            get 
+        public string ConnectionString
+        {
+            get
             {
 
 
                 return $"mongodb://{Host}:{Port}";
-            } 
+            }
         }
     }
 }
